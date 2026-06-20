@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: stock-client
+
+server:
+  port: 8081
